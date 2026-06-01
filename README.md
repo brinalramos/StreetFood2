@@ -1,3 +1,43 @@
+🍔 StreetFood Review
+  @ Sobre o projeto
+    O StreetFood Review é um aplicativo Android que permite aos usuários explorar estabelecimentos de comida de rua, visualizar informações detalhadas e avaliar suas experiências.
+As empresas também possuem um painel próprio para gerenciar seus dados e visualizar avaliações recebidas.
+  O objetivo do app é conectar clientes e pequenos negócios de alimentação, facilitando a descoberta e avaliação de locais.
+
+🚀 Funcionalidades
+  -🔍 Explorar empresas cadastradas
+  -🏪 Visualizar detalhes completos dos estabelecimentos
+  -🗺️ Ver localização no mapa
+  -⭐ Avaliar empresas e ver avaliações de outros usuários
+  -🏢 Painel da empresa com dados e feedbacks
+  -👤 Cadastro e login de usuários e empresas
+
+📱 Principais telas
+Usuário
+  - Login / Cadastro
+  - Explorar empresas
+  - Detalhe da empresa
+  - Perfil do usuário
+Empresa
+Cadastro de empresa
+Dashboard da empresa
+Perfil da empresa
+
+🧠 Tecnologias
+Android (Java)
+Firebase Firestore
+Firebase Authentication
+Google Maps API
+Glide
+
+🔧 Instalação do APK
+Baixe o APK
+Ative “instalar apps desconhecidos” no Android
+Abra o arquivo e instale
+Execute o app
+
+======= README OLD _ 27/05 =======
+
 Project College - ADS 
 Street Food - APP/APK
 Dev: Adroind Studio - Java
