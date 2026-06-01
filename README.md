@@ -5,12 +5,12 @@ As empresas também possuem um painel próprio para gerenciar seus dados e visua
   O objetivo do app é conectar clientes e pequenos negócios de alimentação, facilitando a descoberta e avaliação de locais.
 
 🚀 Funcionalidades
-  -🔍 Explorar empresas cadastradas
-  -🏪 Visualizar detalhes completos dos estabelecimentos
-  -🗺️ Ver localização no mapa
-  -⭐ Avaliar empresas e ver avaliações de outros usuários
-  -🏢 Painel da empresa com dados e feedbacks
-  -👤 Cadastro e login de usuários e empresas
+   -🔍 Explorar empresas cadastradas
+   -🏪 Visualizar detalhes completos dos estabelecimentos
+   -🗺️ Ver localização no mapa
+   -⭐ Avaliar empresas e ver avaliações de outros usuários
+   -🏢 Painel da empresa com dados e feedbacks
+   -👤 Cadastro e login de usuários e empresas
 
 📱 Principais telas
 Usuário
